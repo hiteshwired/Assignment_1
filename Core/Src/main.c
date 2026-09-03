@@ -101,7 +101,7 @@ int main(void)
 
     count++;
 
-    HAL_Delay(Delay:200);
+    HAL_Delay(200);
 
     if(count>7)
     {
