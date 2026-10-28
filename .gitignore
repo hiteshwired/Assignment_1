@@ -1,3 +1,11 @@
 build
 mx.scratch
 !.settings
+
+# Build output
+Debug/
+cmake-build-*/
+
+# OS
+.DS_Store
+Thumbs.db
